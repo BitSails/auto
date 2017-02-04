@@ -1,0 +1,2 @@
+# auto
+Auto foo test 
